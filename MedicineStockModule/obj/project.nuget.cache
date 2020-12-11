@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EvbkojT/u8nqchvSnTyDVHhK+zg3jilMxULTiA8iIEKVpTvWhmO0q0ssOh2oB1CKYbObm0AjN/baOkBu2xegrQ==",
+  "dgSpecHash": "xAYjaAMOHofFfO+CtH3eTRxLszjgjdZlCJHmgxrlX4YbCtPD0IINctUu9JO1ISLfW0Z8d7eA2d5XQ5SyEqOuYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Meghana\\source\\repos\\MedicineStockModule\\MedicineStockModule.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,7 @@
     "C:\\Users\\Meghana\\.nuget\\packages\\moq\\4.13.1\\moq.4.13.1.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\moq.entityframeworkcore\\5.0.0.1\\moq.entityframeworkcore.5.0.0.1.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\Meghana\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Meghana\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\Meghana\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",

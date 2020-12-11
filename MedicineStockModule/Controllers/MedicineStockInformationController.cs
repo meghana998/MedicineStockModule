@@ -21,9 +21,9 @@ namespace MedicineStockModule.Controllers
 
         //creating provider layer interface object
         private readonly IMedicineStockProvider iMedicineStock;
-        public MedicineStockInformationController(IMedicineStockProvider _imedicinestock)
+        public MedicineStockInformationController(IMedicineStockProvider iMedicineStock)
         {
-            this.iMedicineStock = _imedicinestock;
+            this.iMedicineStock = iMedicineStock;
         }
 
         //hhtp get method to get all the medicine stock list 

@@ -171,12 +171,3 @@ C:\Users\Meghana\source\repos\MedicineStockModule\bin\Debug\netcoreapp3.1\zh-Han
 C:\Users\Meghana\source\repos\MedicineStockModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Meghana\source\repos\MedicineStockModule\bin\Debug\netcoreapp3.1\MedicineStockModule.Views.dll
 C:\Users\Meghana\source\repos\MedicineStockModule\bin\Debug\netcoreapp3.1\MedicineStockModule.Views.pdb
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.RazorAssemblyInfo.cache
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.RazorAssemblyInfo.cs
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.TagHelpers.input.cache
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.TagHelpers.output.cache
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.RazorCoreGenerate.cache
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\Razor\Views\MedicineStockInformation\Error.cshtml.g.cs
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.RazorTargetAssemblyInfo.cs
-C:\Users\Meghana\source\repos\MedicineStockModule\obj\Debug\netcoreapp3.1\MedicineStockModule.Views.pdb
