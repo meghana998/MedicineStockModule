@@ -8,6 +8,6 @@ namespace MedicineStockModule.Providers
 {
    public interface IMedicineStockProvider
     {
-        public IEnumerable<MedicineStock> GetMedicineStock();
+        public IEnumerable<MedicineStockDTO> GetMedicineStock();
     }
 }

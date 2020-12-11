@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace MedicineStockModule.Repository
 {
    public interface IMedicineStockRepository
-    {
-
-        public IEnumerable<MedicineStock> GetAll();
+    { 
+        public IEnumerable<MedicineStockDTO> GetAll();
     }
 }

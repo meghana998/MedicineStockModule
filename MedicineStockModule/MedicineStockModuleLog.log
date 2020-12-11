@@ -11,3 +11,7 @@
 2020-12-10 13:42:10,978 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
 2020-12-10 13:42:10,984 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\MedicineStockModule
 2020-12-10 13:42:11,024 [10] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - All the Medicine Stock from the Godown are getting retrived
+2020-12-11 16:10:35,755 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2020-12-11 16:10:35,913 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2020-12-11 16:10:35,917 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\MedicineStockModule
+2020-12-11 16:10:36,047 [5] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - All the Medicine Stock from the Godown are getting retrived

@@ -30,9 +30,23 @@ namespace MedicineStockModule.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            BasicConfigurator.Configure();
-            log.Info("All the Medicine Stock from the Godown are getting retrived");
-            return Ok(iMedicineStock.GetMedicineStock());
+            try
+            {
+                var res =iMedicineStock.GetMedicineStock();
+                BasicConfigurator.Configure();
+                if (res != null)
+                { 
+                    log.Info("Medicine Stock Retrived");
+                    return Ok(res.ToList());
+                }
+                log.Info("No details retrieved");
+                return Content("No such details found please try again.");
+            }
+            catch(Exception e)
+            {
+                log.Error("Excpetion:" + e.Message + " has occurred while trying to retrieve stock info.");
+                return Content("The following exception has occurred while retreving the stock." + e.Message + " Please try again");
+            }
         }
     }
 }
