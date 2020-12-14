@@ -44,7 +44,7 @@ namespace MedicineStockModule.Repository
             
             var MedicineStocklist = from Medicine in MedicineStockInformation select Medicine;
             return MedicineStocklist.ToList();
-            log.Info("Medicine Stock retreived from godown");
+           log.Info("Medicine Stock retreived from godown");
         }
     }
 }

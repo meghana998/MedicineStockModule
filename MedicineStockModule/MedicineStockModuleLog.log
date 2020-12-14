@@ -24,3 +24,11 @@
 2020-12-11 17:44:48,016 [14] INFO  MedicineStockModule.Providers.MedicineStockProvider [(null)] - Medicine Stock requested
 2020-12-11 17:44:48,019 [14] INFO  MedicineStockModule.Providers.MedicineStockProvider [(null)] - Medicine Stock Retrived
 2020-12-11 17:44:48,021 [14] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - Medicine Stock Retrived
+2020-12-14 17:05:22,433 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2020-12-14 17:05:23,299 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2020-12-14 17:05:23,311 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: C:\Users\Meghana\source\repos\MedicineStockModule
+2020-12-14 17:05:23,419 [4] INFO  MedicineStockModule.Providers.MedicineStockProvider [(null)] - Medicine Stock requested
+2020-12-14 17:05:23,470 [4] INFO  MedicineStockModule.Providers.MedicineStockProvider [(null)] - Medicine Stock Retrived
+2020-12-14 17:05:23,479 [4] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - Medicine Stock Retrived
+2020-12-15 00:13:10,233 [NonParallelWorker] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - Medicine Stock Retrived
+2020-12-15 00:22:47,290 [NonParallelWorker] INFO  MedicineStockModule.Controllers.MedicineStockInformationController [(null)] - Medicine Stock Retrived

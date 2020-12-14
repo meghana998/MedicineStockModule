@@ -22,7 +22,7 @@ namespace MedicineStockModule.Providers
             var MedicineStockList = IMedicineStock.GetAll();
             log.Info("Medicine Stock Retrived");
             return MedicineStockList.ToList();
-           
+
         }
     }
 }
